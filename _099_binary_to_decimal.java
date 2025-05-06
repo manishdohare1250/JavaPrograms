@@ -1,4 +1,4 @@
-public class _99_binary_to_decimal {
+public class _099_binary_to_decimal {
     public static void binToDec(int binNum){
          int myNum=binNum;
          int pow=0;
