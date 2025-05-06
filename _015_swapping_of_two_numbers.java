@@ -1,6 +1,6 @@
 // write a program to swap two numbers in java  
 import java.util.*;
-public class _15_swapping_of_two_numbers {
+public class _015_swapping_of_two_numbers {
 public static void main(String[] args){
     System.out.println("Enter first number:");
     Scanner sc=new Scanner(System.in);
