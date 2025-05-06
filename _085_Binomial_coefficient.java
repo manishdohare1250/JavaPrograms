@@ -1,5 +1,5 @@
 // find binomial function for given n and r
-public class _85_Binomial_coefficient {
+public class _085_Binomial_coefficient {
     public static void main(String[] args) {
        
        System.out.println(BinCoef(5, 2));
