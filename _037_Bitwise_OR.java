@@ -1,5 +1,5 @@
 import java.util.*;
-public class _37_Bitwise_OR {
+public class _037_Bitwise_OR {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter first number: ");
