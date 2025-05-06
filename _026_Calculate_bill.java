@@ -1,6 +1,6 @@
 // calculate bill
 import java.util.*;
-public class _26_Calculate_bill {
+public class _026_Calculate_bill {
     public static void main(String[] args) {
         Scanner k= new Scanner(System.in);
         System.out.println("enter cost of pencil:");
