@@ -1,5 +1,5 @@
 import java.util.*;
-public class _94_reverse_of_number {
+public class _094_reverse_of_number {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter  number: ");
