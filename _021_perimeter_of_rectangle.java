@@ -1,5 +1,5 @@
  import java.util.*;
- public class _21_perimeter_of_rectangle {
+ public class _021_perimeter_of_rectangle {
  public static void main(String[] args) {
     Scanner jk=new Scanner(System.in);
     System.out.println("Enter first side of rectangle: ");
