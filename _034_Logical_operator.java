@@ -1,5 +1,5 @@
 // logical operator
-public class _34_Logical_operator {
+public class _034_Logical_operator {
     public static void main(String[] args) {
         // logical AND
         System.out.println(3<2);  //((3<2)&&(5>0));---if we write commented code here warning pops up as dead code
