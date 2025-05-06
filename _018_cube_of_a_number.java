@@ -1,6 +1,6 @@
 // write a program to find cube of a given number
 import java.util.*;
-public class _18_cube_of_a_number{
+public class _018_cube_of_a_number{
     public static void main(String[] args) {
         Scanner b =new Scanner(System.in);
         System.out.println("enter number:");
