@@ -1,6 +1,6 @@
 // average of 3 numbers  from user input
 import java.util.*;
-public class _19_Average_of_3_numbers {
+public class _019_Average_of_3_numbers {
     public static void main(String[] args) {
         Scanner k= new Scanner(System.in);
         System.out.println("enter first number:");
