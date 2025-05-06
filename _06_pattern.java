@@ -1,5 +1,5 @@
 // print pattern using System.out.println
-public class _6_pattern {
+public class _06_pattern {
     public static void main(String[] args) {
         System.out.println("first pattern:");
         System.out.println("*");
