@@ -1,5 +1,5 @@
 // varriable creation,assigning values ,and print them
-public class _8_varriables {
+public class _08_varriables {
     public static void main(String[] args) {
         int a =10;
         int b =5;
