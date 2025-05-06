@@ -1,5 +1,5 @@
 import java.util.*;
-public class _25_farhenite_to_celsius {
+public class _025_farhenite_to_celsius {
     public static void main(String[] args) {
 
  Scanner sc=new Scanner(System.in);
