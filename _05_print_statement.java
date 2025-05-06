@@ -1,5 +1,5 @@
 // 1   print statements------
-public class _5_print_statement {
+public class _05_print_statement {
     public static void main(String[] args) {
         System.out.print("Hello World"); //---line will not end and new line start as same line because of print
         
