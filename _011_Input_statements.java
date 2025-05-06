@@ -1,6 +1,6 @@
 // Taking input  from users  in java
 import java.util.*;   // import java package 
-public class _11_Input_statements {
+public class _011_Input_statements {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in); 
         /*
