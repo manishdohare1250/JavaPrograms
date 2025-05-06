@@ -1,5 +1,5 @@
 import java.util.*;
-public class _40__left_shift {
+public class _040__left_shift {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter first number: ");
