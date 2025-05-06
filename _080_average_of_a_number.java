@@ -1,4 +1,4 @@
-public class _80_average_of_a_number {
+public class _080_average_of_a_number {
     public static void main(String[] args) {
         average(5, 7);
         System.out.println("well done");
