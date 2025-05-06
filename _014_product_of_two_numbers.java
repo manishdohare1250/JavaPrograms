@@ -1,6 +1,6 @@
 // product of two numbers by user input
 import java.util.*;
-public class _14_product_of_two_numbers {
+public class _014_product_of_two_numbers {
     public static void main(String[] args) {
         Scanner p = new Scanner(System.in);
         
