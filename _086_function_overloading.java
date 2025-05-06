@@ -1,4 +1,4 @@
-public class _86_function_overloading {
+public class _086_function_overloading {
 //function overloading- Multiple functions with
                    //  the same name but different parameters.
 public static int sum(int a,int b){//fun to calcilate sum of 2 numbers
