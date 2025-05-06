@@ -1,5 +1,5 @@
 // type promotion in expression
-public class _28_Type_promotion {
+public class _028_Type_promotion {
     public static void main(String[] args) {
         char a='a';
         char b='b';
