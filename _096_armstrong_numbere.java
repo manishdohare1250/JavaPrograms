@@ -1,7 +1,7 @@
                         //   Create a program to check wheather a number is armstrong or not
                         //  153,370,371,407,1634 are examples of armstrong numbers.
 import java.util.*;
- public class _96_armstrong_numbere {
+ public class _096_armstrong_numbere {
     public static void main(String[] args) {    // main method 
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter  number: ");
