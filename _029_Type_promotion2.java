@@ -1,7 +1,7 @@
 // type promotion
 import java.util.Scanner;
 
-public class _29_Type_promotion2 {
+public class _029_Type_promotion2 {
     public static void main(String[] args) {
         Scanner m=new Scanner(System.in);
         byte b=4;
