@@ -1,5 +1,5 @@
 // product of two numbers using functions
-public class _83_product_of_two_numbers_using_functions {
+public class _083_product_of_two_numbers_using_functions {
     static int multiplication(int a,int b){
         int product=a*b;
         return product;
