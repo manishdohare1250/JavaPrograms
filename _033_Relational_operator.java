@@ -1,5 +1,5 @@
 // Relational operator
-public class _33_Relational_operator {
+public class _033_Relational_operator {
     public static void main(String[] args) {
         int a=10;
         int b=5;
