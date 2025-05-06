@@ -1,5 +1,5 @@
 // arithmatic operators for given values
-public class _31_Arithmatic_operator {
+public class _031_Arithmatic_operator {
     public static void main(String[] args) {
         // /binary operators
         int a=12;
