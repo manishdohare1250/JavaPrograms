@@ -1,4 +1,4 @@
-public class _98_print_prime_number_for_given_range {
+public class _098_print_prime_number_for_given_range {
     public static boolean isprime(int n){
         boolean isprime=true;
         for(int i=2;i<=n-1;i++){//optimezed approach for(int i=2;i<=Math.sqrt(n);i++){}
