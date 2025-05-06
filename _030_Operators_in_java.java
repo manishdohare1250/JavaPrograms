@@ -1,4 +1,4 @@
-public class _30_Operators_in_java {
+public class _030_Operators_in_java {
     public static void main(String[] args) {
         /*operator------
          * 1. Arithmatic operator
