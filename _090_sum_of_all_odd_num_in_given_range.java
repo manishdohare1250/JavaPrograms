@@ -1,5 +1,5 @@
 import java.util.*;
-public class _90_sum_of_all_odd_num_in_given_range {
+public class _090_sum_of_all_odd_num_in_given_range {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter first number: ");
