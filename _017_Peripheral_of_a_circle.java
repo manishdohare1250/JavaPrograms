@@ -1,6 +1,6 @@
 //  write a  program to find the peripheral of the circle
 import java.util.*;
-public class _17_Peripheral_of_a_circle {
+public class _017_Peripheral_of_a_circle {
        public static void main(String[] args) {
         Scanner n =new Scanner(System.in);
         System.out.println("enter radius of the circle :");
