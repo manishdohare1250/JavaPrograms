@@ -1,5 +1,5 @@
 import java.util.*;
-public class _38_Bitwise_XOR {
+public class _038_Bitwise_XOR {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter first number: ");
