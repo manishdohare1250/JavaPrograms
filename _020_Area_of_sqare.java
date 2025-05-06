@@ -1,6 +1,6 @@
 // area of sqare
 import java.util.Scanner;
-public class _20_Area_of_sqare {
+public class _020_Area_of_sqare {
     public static void main(String[] args) {
         Scanner k= new Scanner(System.in);
         System.out.println("enter side of sqare:");
