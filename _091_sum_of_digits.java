@@ -1,5 +1,5 @@
 import java.util.*;
-public class _91_sum_of_digits {
+public class _091_sum_of_digits {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter first number: ");
