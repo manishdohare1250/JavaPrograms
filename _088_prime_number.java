@@ -1,5 +1,5 @@
 import java.util.*;
-public class _88_prime_number {
+public class _088_prime_number {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter number: ");
