@@ -1,5 +1,5 @@
 import java.util.*;
-public class _71_multiplication_of_a_number_in_reverse_number {
+public class _071_multiplication_of_a_number_in_reverse_number {
     public static void main(String[] args) {
        Scanner k=new Scanner(System.in);
        System.out.println("enter a number:");
