@@ -1,6 +1,6 @@
 // wap to print right angle triangle using asterisk
 import java.util.*;
-public class _74_pattern_RAT_using_asterisk2 {
+public class _074_pattern_RAT_using_asterisk2 {
     public static void main(String[] args) {
         Scanner k=new Scanner(System.in);
         System.out.println("Enter number:");
