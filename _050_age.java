@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _50_age {
+public class _050_age {
      public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter age: ");
