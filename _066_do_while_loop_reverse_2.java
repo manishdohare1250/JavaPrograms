@@ -1,6 +1,6 @@
 // wap to print reverse of a number
 import java.util.*;
-public class _66_do_while_loop_reverse_2 {
+public class _066_do_while_loop_reverse_2 {
     public static void main(String[] args) {
         Scanner k =new Scanner(System.in);
         System.out.println("enter a number:");
