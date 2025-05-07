@@ -1,4 +1,4 @@
-public class _42_Conditional_statements {
+public class _042_Conditional_statements {
     public static void main(String[] args){
         /* conditional statements
 
