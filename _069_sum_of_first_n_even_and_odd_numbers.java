@@ -1,6 +1,6 @@
 //  sum of first n even and odd numbers
  import java.util.*;
- public class _69_sum_of_first_n_even_and_odd_numbers {
+ public class _069_sum_of_first_n_even_and_odd_numbers {
     public static void main(String[] args) {
         Scanner k=new Scanner(System.in);
         System.out.print("enter how many number  you want to add :");
