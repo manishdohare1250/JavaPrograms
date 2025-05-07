@@ -1,5 +1,5 @@
 import java.util.*;
-public class _75_half_pyramid_using_natural_numbers {
+public class _075_half_pyramid_using_natural_numbers {
       public static void main(String[] args) {
         Scanner k=new Scanner(System.in);
         System.out.println("Enter number:");
