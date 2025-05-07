@@ -1,6 +1,6 @@
 // factoriual of a number
 import java.util.*;
-public class _61_for_loop_factorial {
+public class _061_for_loop_factorial {
     public static void main(String[] args) {
        Scanner j=new Scanner(System.in);
        System.out.println("enter number :");
