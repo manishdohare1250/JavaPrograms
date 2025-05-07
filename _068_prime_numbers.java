@@ -1,6 +1,6 @@
 // check wheather a number is prime or not
 import java.util.*;
-public class _68_prime_numbers {
+public class _068_prime_numbers {
     public static void main(String[] args) {
         Scanner k =new Scanner(System.in);
         System.out.println("enter your number:");
