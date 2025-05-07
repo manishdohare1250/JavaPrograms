@@ -1,6 +1,6 @@
 // wap to print hello world n times  with numbering
 import java.util.*;
-public class _57_while_loop_helloworld2 {
+public class _057_while_loop_helloworld2 {
     public static void main(String[] args) {
         Scanner k=new Scanner(System.in);
         System.out.println("enter value of n:");
