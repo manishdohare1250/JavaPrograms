@@ -1,6 +1,6 @@
 // switchcase__ even -odd
 import java.util.*;
-public class _53_Switchcase_vowel_consonant_2 {
+public class _053_Switchcase_vowel_consonant_2 {
     public static void main(String[] args) {
         Scanner k = new Scanner (System.in);
         System.out.println("enter alphabet character");
