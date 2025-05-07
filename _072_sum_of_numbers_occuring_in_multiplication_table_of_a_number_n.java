@@ -1,5 +1,5 @@
 import java.util.*;
-public class _72_sum_of_numbers_occuring_in_multiplication_table_of_a_number_n {
+public class _072_sum_of_numbers_occuring_in_multiplication_table_of_a_number_n {
     public static void main(String[] args) {
      Scanner k=new Scanner(System.in);
      System.out.println("enter a  number:");
