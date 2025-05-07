@@ -1,6 +1,6 @@
 //  else if  statment--- check wheather  a number is even ,odd or zero
  import java.util.*;
-public class _45_Else_if {
+public class _045_Else_if {
     public static void main(String[] args) {
     Scanner k=new Scanner(System.in);   
     System.out.println("enter number :");
