@@ -1,4 +1,4 @@
-public class _78_calling_a_funnctions {
+public class _078_calling_a_funnctions {
     public static void main(String[] args) {
        System.out.println("1");
        System.out.println("2");
