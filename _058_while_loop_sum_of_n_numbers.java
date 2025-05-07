@@ -1,6 +1,6 @@
 // wap to find sum of  first n naturals numbers
 import java.util.*;
-public class _58_while_loop_sum_of_n_numbers {
+public class _058_while_loop_sum_of_n_numbers {
     public static void main(String[] args) {
         Scanner k = new Scanner(System.in);
         System.out.println("enter value of n :");
