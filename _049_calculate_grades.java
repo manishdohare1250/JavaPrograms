@@ -1,5 +1,5 @@
 import java.util.*;
-public class _49_calculate_grades {
+public class _049_calculate_grades {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter marks: ");
