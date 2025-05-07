@@ -1,5 +1,5 @@
 // wap to print hello world by using do while loop 
-public class _65_do_while_loop_helloworld {
+public class _065_do_while_loop_helloworld {
     public static void main(String[] args) {
         int count=1;
         do{
