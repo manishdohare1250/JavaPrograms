@@ -1,6 +1,6 @@
 //calculator
 import java.util.*; 
-public class _54_Switchcase_arithmatic_calculator {
+public class _054_Switchcase_arithmatic_calculator {
     public static void main(String[] args) {
         Scanner k= new Scanner(System.in);
         System.out.println("enter first number:");
