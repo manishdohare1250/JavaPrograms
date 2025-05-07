@@ -1,5 +1,5 @@
 import java.util.*;
-public class _59_while_loop_factorial {
+public class _059_while_loop_factorial {
     public static void main(String[] args) {
         Scanner k =new Scanner(System.in);
         System.out.println("enter number:");
