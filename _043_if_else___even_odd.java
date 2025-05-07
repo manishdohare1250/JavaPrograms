@@ -1,7 +1,7 @@
 // conditional sttement-----if-else statements
 // check a number is even or odd
 import java.util.*;
-public class _43_if_else___even_odd {
+public class _043_if_else___even_odd {
     public static void main(String[] args) {
     Scanner k=new Scanner(System.in);   
     System.out.println("enter number :");
