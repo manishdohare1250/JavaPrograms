@@ -1,6 +1,6 @@
 // multiplication tableof a number
 import java .util.*;
-public class _70_multiplication_of_a_number {
+public class _070_multiplication_of_a_number {
     public static void main(String[] args) {
         Scanner j=new Scanner(System.in);
         System.out.println("enter a number:");
