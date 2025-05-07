@@ -6,7 +6,7 @@ Ans:- Function or method is a block of code or collection
  * 
  */
 
-public class _77_functions_basics {
+public class _077_functions_basics {
     public static void  printHelloworld(){//function for hello world
         System.out.println("Hello world");
         System.out.println("Hello world");
