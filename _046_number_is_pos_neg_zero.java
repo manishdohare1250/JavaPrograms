@@ -1,5 +1,5 @@
 import java.util.*;
-public class _46_number_is_pos_neg_zero {
+public class _046_number_is_pos_neg_zero {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter  number: ");
